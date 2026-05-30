@@ -11,51 +11,53 @@
 ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-### Tecnologia com propósito. Código que serve pessoas.
+### Technology with purpose. Code that serves people.
 
-[![Status](https://img.shields.io/badge/status-ativo-brightgreen?style=flat-square)]()
-[![Licença](https://img.shields.io/badge/licença-MIT-blue?style=flat-square)]()
-[![Projetos](https://img.shields.io/badge/projetos-1_ativo-orange?style=flat-square)]()
+[🇧🇷 Português](./README.pt-BR.md) | 🇺🇸 English
+
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)]()
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)]()
+[![Projects](https://img.shields.io/badge/projects-1_active-orange?style=flat-square)]()
 
 </div>
 
 ---
 
-## Quem somos
+## Who we are
 
-A **RovaTech** é uma empresa de tecnologia focada em criar soluções que unem hardware acessível, software inteligente e impacto real — para pessoas comuns, comunidades, estudantes e a sociedade.
+**RovaTech** is a technology company focused on building solutions that combine accessible hardware, intelligent software and real-world impact — for everyday people, communities, students and society as a whole.
 
-Nossa filosofia é simples: **tecnologia só tem valor quando resolve um problema de verdade.**
+Our philosophy is simple: **technology only has value when it solves a real problem.**
 
-Cada projeto nasce de uma necessidade concreta — seja automatizar uma casa, ajudar um idoso, incluir uma pessoa com deficiência ou equipar uma escola sem laboratório. Não construímos tecnologia por tecnologia.
+Every project starts from a concrete need — whether automating a home, assisting an elderly person, enabling someone with a disability, or equipping a school that lacks a proper lab. We don't build technology for its own sake.
 
 ---
 
-## Projetos
+## Projects
 
-| Projeto | Descrição | Status |
+| Project | Description | Status |
 |---|---|---|
-| [**Orbia**](https://github.com/rovatech/orbia) | Suíte de sistemas embarcados para automação, acessibilidade, monitoramento industrial e educação | 🟡 Em desenvolvimento |
+| [**Orbia**](https://github.com/rovatech/orbia) | Suite of embedded systems for home automation, accessibility, industrial monitoring and education | 🟡 In development |
 
 ---
 
-## Fundadores
+## Founders
 
-| | Nome | GitHub |
+| | Name | GitHub |
 |---|---|---|
 | 👤 | Pedro Juno | [@pedro-juno](https://github.com/pedro-juno) |
 | 👤 | Ana Mouca | [@ana-mouca](https://github.com/ana-mouca) |
 
 ---
 
-## Contato
+## Contact
 
-Em breve.
+Coming soon.
 
 ---
 
 <div align="center">
 
-**RovaTech** — *Tecnologia com propósito. Código que serve pessoas.*
+**RovaTech** — *Technology with purpose. Code that serves people.*
 
 </div>

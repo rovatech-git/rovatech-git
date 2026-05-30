@@ -2,18 +2,17 @@
 
 <br/>
 
-```
+<pre>
 ██████╗  ██████╗ ██╗   ██╗ █████╗ ████████╗███████╗ ██████╗██╗  ██╗
 ██╔══██╗██╔═══██╗██║   ██║██╔══██╗╚══██╔══╝██╔════╝██╔════╝██║  ██║
 ██████╔╝██║   ██║██║   ██║███████║   ██║   █████╗  ██║     ███████║
 ██╔══██╗██║   ██║╚██╗ ██╔╝██╔══██║   ██║   ██╔══╝  ██║     ██╔══██║
 ██║  ██║╚██████╔╝ ╚████╔╝ ██║  ██║   ██║   ███████╗╚██████╗██║  ██║
 ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
-```
+</pre>
 
 ### Technology with purpose. Code that serves people.
 
-[🇧🇷 Português](./README.pt-BR.md) | 🇺🇸 English
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)]()
